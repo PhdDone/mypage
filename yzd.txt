@@ -1,6 +1,7 @@
 <span id="a">yuanzhe@LosAngeles</span>:<span id="b">~</span><span id="c">$</span> cat Yuanzhe<br/><br/>
 Hi, I'm Yuanzhe Dong.
 <p>I'm interested in Machine Learning and how to apply it to solve NLP problems, currently I'm working on Machine Translation. Here's my <a href="https://www.linkedin.com/in/yuanzhe-dong-97989546">Linkedin</a></p>
-<p>I'm also interested in Front-End web developing since the most frequent question I need to answer to my friends is "Can you make a website/ an App?". Now in my spare time I help them improve their website. Here's my <a href="https://github.com/PhdDone">GitHub</a>. Feel free to send me an <a href="mailto:onemoretolearn@gmail.com">email</a></p>
+<p>I'm also interested in Front-End web development since the most frequent question I get is "Can you make a website/an app?". Now in my spare time I help friends improve their website. Here's my <a href="https://github.com/PhdDone">GitHub</a>.</p>
 <p>Most of the time I write C++, recently I begin to write Go</p>
-<p>At last, Here's why <a href="http://www.google.com/search?q=还要学习一个">还要学习一个(one more to learn)</a>
+<p>Normally I play basketball every Saturday morning at <a href="http://www.campusrec.uci.edu/">ARC</a>. Many thanks to <a href="http://mengyaozhao.com/">Mengyao</a> so that I can get the membership there as a spouse.</p>
+<p>At last, always <a href="http://www.google.com/search?q=还要学习一个">还要学习一个(one more to learn)</a>
